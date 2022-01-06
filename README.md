@@ -1,2 +1,2 @@
 # extraLabProgramming
-Stage №2 Using Linked List
+Stage №3 Using Hash Set

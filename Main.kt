@@ -78,11 +78,11 @@ fun delete(s: String, id: Array<String?>, characts: Array<DataClass>){
             characts[tmpCurr].color = "0"
             characts[tmpCurr].age= 0
             characts[tmpCurr].weight = 0
+            println("OK")
             return
         }
         tmpCurr++
     }
-    println("OK")
 }
 
 fun readall(id: Array<String?>, characts: Array<DataClass>){
